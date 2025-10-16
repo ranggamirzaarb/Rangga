@@ -1,4 +1,5 @@
-body {
+
+)body {
     background-color: #FFFFE0; /* Warna kuning cerah */
     font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
     color: #191976; /* Warna teks utama (Biru Gelap) */
@@ -18,3 +19,4 @@ body {
 .kartu-profil img {
     width: 150px;
     border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
