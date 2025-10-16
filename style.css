@@ -11,7 +11,7 @@ body {
     background-color: white;
     border-radius: 15px; /* Membuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
-    text-align: center; /* Menengahkan demua teks di dalam kartu */
+    text-align: center; /* Menengahkan semua teks di dalam kartu */
 }
 
 
